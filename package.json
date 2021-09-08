@@ -1,0 +1,23 @@
+{
+  "name": "<package name>",
+  "version": "<package version>",
+  "displayName": "<package displayName>",
+  "description": "<package description>",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "dependencies": {
+    "com.unity.test-framework": "1.1.22",
+    "com.unity.nuget.newtonsoft-json": "2.0.0",
+    "com.svermeulen.extenject": "9.2.0-stcf3",
+    "com.neuecc.unirx": "7.1.0",
+    "com.cysharp.unitask": "2.2.5",
+  },
+  "keywords": [
+  ],
+  "author": {
+    "name": "Emoko-team",
+    "email": "contact@emoko.io",
+    "url": "http://www.emoko.io"
+  },
+  "type": "library"
+}

@@ -1,4 +1,4 @@
 # Welcome
 
-**[Getting started](Documentation~\Getting started.md)**
+**[Getting started](Documentation~/Getting started.md)**
 
